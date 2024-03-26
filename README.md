@@ -1,2 +1,2 @@
 # requisitos
-Repositório para a aula de requisitos.
+Este repositório foi criado na aula de desenvolvimento ágil.
